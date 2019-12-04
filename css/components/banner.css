@@ -1,0 +1,20 @@
+.banner{
+	background-image: linear-gradient(-255deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0) 50%), url(../../images/stocks.jpg);
+	color: #d3d3d3 ;
+	padding: 150px 0px;
+	background-size: cover;
+	background-position: center;
+	opacity: 1.05;
+}
+
+.banner h1{
+	font-size: 65px;
+	font-weight: bolder;
+}
+
+.banner h2{
+	font-size: 30px;
+	font-weight: lighter;
+	opacity: 0.95;
+	margin-bottom: 80px;
+}
